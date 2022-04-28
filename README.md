@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... (Cricket, Tech Articles, New Technologies, Football, Computer Gaming and Swimming)
 - 🌱 I’m currently learning ... (Selenium ide, REST Assured, Jenkins)
 - 💞️ I’m looking to collaborate on ... Api Automation and Test Projects.
-- 📫 How to reach me ... (+92 332 2311491 , maazibrahim.com) 
+- 📫 How to reach me ... ( message ) 
 
 <!---
 maazIVL/maazIVL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
